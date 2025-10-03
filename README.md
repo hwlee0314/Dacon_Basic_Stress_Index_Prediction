@@ -1,7 +1,7 @@
 # 데이콘 Basic 스트레스 지수 예측 : 건강 데이터로 마음의 균형을 찾아라!
 
 ### **2025-07-01 ~ 2025.08.29**
-### [Competition Link](https://dacon.io/competitions/open/236526/overview/description)
+### [Competition & Data Link](https://dacon.io/competitions/open/236526/overview/description)
 - 이번 해커톤에서는 신체 정보, 수면 패턴 및 활동량 등 다양한 건강 데이터를 활용하여 
 개인의 스트레스 점수를 예측하는 AI 알고리즘 개발
 
