@@ -35,10 +35,6 @@
 
 ```
 Dacon_Basic_Stress_Index_Prediction/
-├── data/                   # 데이터 폴더
-│   ├── train.csv          # 학습 데이터
-│   ├── test.csv           # 테스트 데이터
-│   └── sample_submission.csv  # 제출 파일 템플릿
 ├── 0.15444.ipynb          # 메인 모델링 노트북
 ├── result_catboost_single.csv  # CatBoost 모델 예측 결과
 ├── README.md              # 프로젝트 설명서
